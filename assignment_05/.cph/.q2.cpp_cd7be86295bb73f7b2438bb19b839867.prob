@@ -1,0 +1,1 @@
+{"name":"Local: q2","url":"/home/oem/IIITH-I-II/dsa/dsa_assignments/assignment_05/q2.cpp","tests":[{"id":1714942515330,"input":"5 5 4\n1 2 1\n2 3 2\n1 3 3\n3 4 4\n1 5 7\n2 7\n3 5\n4 5\n5 5","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/oem/IIITH-I-II/dsa/dsa_assignments/assignment_05/q2.cpp","group":"local","local":true}

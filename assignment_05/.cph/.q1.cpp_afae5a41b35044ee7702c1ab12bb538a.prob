@@ -1,0 +1,1 @@
+{"name":"Local: q1","url":"/home/oem/IIITH-I-II/dsa/assignment_05/q1.cpp","tests":[{"id":1713158314813,"input":"4 2\n1 2\n3 4","output":"1\n1 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/oem/IIITH-I-II/dsa/assignment_05/q1.cpp","group":"local","local":true}

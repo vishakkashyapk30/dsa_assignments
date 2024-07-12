@@ -1,0 +1,1 @@
+{"name":"Local: tet","url":"/home/oem/IIITH-I-II/dsa/assignment_04/tet.c","tests":[{"id":1710787796811,"input":"3 10 20 6\n7 2 14\n3 8 4","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/oem/IIITH-I-II/dsa/assignment_04/tet.c","group":"local","local":true}
